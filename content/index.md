@@ -145,7 +145,7 @@ All-in-one documentation template
   :::
 ::
 
-::u-page-section
+<!-- ::u-page-section
   :::u-page-c-t-a
   ---
   links:
@@ -166,4 +166,4 @@ All-in-one documentation template
   variant: subtle
   ---
   :::
-::
+:: -->
