@@ -20,7 +20,7 @@ orientation: horizontal
   :::
 
 #title
-Build your docs with Nuxt UI Pro
+Cami Demo Page
 
 #description
 Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes.
@@ -32,7 +32,7 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   to: /getting-started
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  Get started Now!
   :::
 
   :::u-button
@@ -44,13 +44,13 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   to: https://github.com/nuxt-ui-pro/docs
   variant: subtle
   ---
-  Use this template
+  Use the template
   :::
 ::
 
 ::u-page-section
 #title
-All-in-one documentation template
+Template Features
 
 #links
   :::u-button
